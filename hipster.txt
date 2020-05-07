@@ -7,3 +7,4 @@ this is line 6 - only on local , staged , not commited ,not pushed
 hello line 7
 this is line 8
 this change is made on branch 2 and i am going to merge this with master branch
+hippie change made by P1
