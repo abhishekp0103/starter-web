@@ -11,3 +11,5 @@ hippie change made by P1
 hippie change for rebase conflict
 hipster file updating for simple stash
 stash with new untracked file
+modified
+cherry pick commit
