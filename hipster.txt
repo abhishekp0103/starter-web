@@ -10,3 +10,4 @@ this change is made on branch 2 and i am going to merge this with master branch
 hippie change made by P1
 hippie change for rebase conflict
 hipster file updating for simple stash
+stash with new untracked file
